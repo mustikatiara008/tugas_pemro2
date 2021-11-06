@@ -1,0 +1,6 @@
+c:\users\asus\documents\visual studio 2015\Projects\P1_4_1204027\P1_4_1204027\bin\Debug\P1_4_1204027.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\P1_4_1204027\P1_4_1204027\obj\Debug\P1_4_1204027.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\P1_4_1204027\P1_4_1204027\bin\Debug\P1_4_1204027.exe
+c:\users\asus\documents\visual studio 2015\Projects\P1_4_1204027\P1_4_1204027\bin\Debug\P1_4_1204027.pdb
+c:\users\asus\documents\visual studio 2015\Projects\P1_4_1204027\P1_4_1204027\obj\Debug\P1_4_1204027.exe
+c:\users\asus\documents\visual studio 2015\Projects\P1_4_1204027\P1_4_1204027\obj\Debug\P1_4_1204027.pdb
